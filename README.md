@@ -27,3 +27,6 @@ Altered Scores Removed:
 Type:  
 
 <img width="720" alt="Type" src="https://user-images.githubusercontent.com/94948877/150744827-0930ef6b-3ea0-4502-a6d1-7db709b894b3.png">
+
+# Summary
+After removing the grades that had been altered the average grades did go down but not by enough to change much. Thomas high school is still in the top five high schools by grades. The biggest change would be for ninth grade at thomas high school because all of those grades have been removed. 
