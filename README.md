@@ -16,6 +16,8 @@ Altered Scores Removed:
 
 - The scores for Thomas High School also did not get affected much by the scores, they went down by very little. 
 - Analysis was also done for grades by school speding, size, and type. 
+
+
 - Spending Ranges:
 
 <img width="837" alt="Spending" src="https://user-images.githubusercontent.com/94948877/150744738-9dee2926-f6b4-440f-8d65-4ba14de0be27.png">
